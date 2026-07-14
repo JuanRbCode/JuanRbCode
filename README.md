@@ -94,24 +94,3 @@ public class Juan {
 ### Code • Build • Innovate
 
 </div>
-
-[ SYSTEM ONLINE ]
-
-Developer............. JuanRbCode
-Status................ Available
-Location.............. Peru
-Role.................. Full Stack Developer
-
-Loading modules...
-
-████████████████ 100%
-
-Java
-Spring Boot
-Angular
-Docker
-MySQL
-AI
-Cloud
-
-SYSTEM READY
