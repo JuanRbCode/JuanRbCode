@@ -10,7 +10,7 @@
 > Status: ONLINE
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Code.+Create.+Innovate.;Building+Scalable+Solutions.;Always+Learning+Something+New." />
+<img src="blob:https://claude.ai/5164f51b-aacc-4031-85dd-08ba2c4f437b" />
 
 </div>
 
