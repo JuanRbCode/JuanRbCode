@@ -10,7 +10,7 @@
 > Status: ONLINE
 ```
 
-<img src="blob:https://claude.ai/5164f51b-aacc-4031-85dd-08ba2c4f437b" />
+<img src="https://claude.ai/5164f51b-aacc-4031-85dd-08ba2c4f437b" />
 
 </div>
 
