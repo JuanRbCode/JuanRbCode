@@ -1,7 +1,6 @@
 <div align="center">
 
-!HELLO WORLD¡
-
+╰┈➤   Hello World   ⏻
 
 <img src="banner.svg" alt="Juan RB banner" width="100%"/>
 
