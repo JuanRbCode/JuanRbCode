@@ -1,63 +1,45 @@
 <div align="center">
 
-# JUAN RB 
+<img src="./assets/banner.svg" alt="Juan RB banner" width="100%"/>
 
-### Full Stack Developer • Backend Engineer • Building the Future
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Loading+developer+data...;%3E+Java+%7C+Spring+Boot+%7C+Angular;%3E+Build+clean.+Think+big.;%3E+Status%3A+ONLINE" alt="Typing SVG" />
 
-```text
-> Initializing profile...
-> Loading developer data...
-> Status: ONLINE
-```
+<br/>
 
-<img src="https://claude.ai/5164f51b-aacc-4031-85dd-08ba2c4f437b" />
+![Java](https://img.shields.io/badge/Java-0A1A4A?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A1A4A?style=for-the-badge&logo=springboot&logoColor=00F0FF)
+![Angular](https://img.shields.io/badge/Angular-0A1A4A?style=for-the-badge&logo=angular&logoColor=00F0FF)
+![MySQL](https://img.shields.io/badge/MySQL-0A1A4A?style=for-the-badge&logo=mysql&logoColor=00F0FF)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0A1A4A)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
 
-## About Me
+## `> about_me.java`
 
 ```java
 public class Juan {
 
     String role = "Software Developer";
 
-    String[] languages = {
-        "Java",
-        "TypeScript",
-        "JavaScript"
-    };
+    String[] languages = { "Java", "TypeScript", "JavaScript" };
 
-    String[] backend = {
-        "Spring Boot",
-        "REST API",
-        "Spring Security",
-        "JWT"
-    };
+    String[] backend   = { "Spring Boot", "REST API", "Spring Security", "JWT" };
 
-    String[] frontend = {
-        "Angular",
-        "HTML",
-        "CSS"
-    };
+    String[] frontend  = { "Angular", "HTML", "CSS" };
 
-    String database = "MySQL";
+    String database    = "MySQL";
 
-    String philosophy = "Build clean. Think big.";
+    String philosophy  = "Build clean. Think big.";
 }
 ```
 
----
+## `> current_focus`
 
-## Current Focus
-
-- Backend Development
-- Software Architecture
-- REST APIs
-- Cloud Computing
-- Artificial Intelligence
-- Performance & Clean Code
+| 🛰️ Backend Development | 🧠 Software Architecture | 🔌 REST APIs |
+|:---:|:---:|:---:|
+| **☁️ Cloud Computing** | **🤖 Artificial Intelligence** | **⚡ Performance & Clean Code** |
 
 ---
 
@@ -81,16 +63,22 @@ public class Juan {
 
 </p>
 
----
-
-## Philosophy
-
-> **"The future isn't waiting to be discovered. It's built one line of code at a time."**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRbCode&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
+
+## `> philosophy`
 
 <div align="center">
 
-### Code • Build • Innovate
+> **"The future isn't waiting to be discovered. It's built one line of code at a time."**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7FD4FF&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Code Build Innovate" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
