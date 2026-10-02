@@ -35,14 +35,6 @@ public class Juan {
 }
 ```
 
-## `> current_focus`
-
-| 🛰️ Backend Development | 🧠 Software Architecture | 🔌 REST APIs |
-|:---:|:---:|:---:|
-| **☁️ Cloud Computing** | **🤖 Artificial Intelligence** | **⚡ Performance & Clean Code** |
-
----
-
 ## Tech Stack
 
 <p>
