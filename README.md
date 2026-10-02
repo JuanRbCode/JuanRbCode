@@ -10,7 +10,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A1A4A?style=for-the-badge&logo=springboot&logoColor=00F0FF)
 ![Angular](https://img.shields.io/badge/Angular-0A1A4A?style=for-the-badge&logo=angular&logoColor=00F0FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0A1A4A?style=for-the-badge&logo=mysql&logoColor=00F0FF)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0A1A4A)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00000?style=for-the-badge&labelColor=0A1A4A)
 
 </div>
 
