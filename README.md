@@ -1,6 +1,6 @@
 <div align="center">
 
-╰┈➤   Hello World   ⏻
+╰┈➤   <h1>Hello World</h1>   ⏻
 
 <img src="banner.svg" alt="Juan RB banner" width="100%"/>
 
