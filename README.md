@@ -1,5 +1,8 @@
 <div align="center">
 
+!HELLO WORLD¡
+
+
 <img src="banner.svg" alt="Juan RB banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Loading+developer+data...;%3E+Java+%7C+Spring+Boot+%7C+Angular;%3E+Build+clean.+Think+big.;%3E+Status%3A+ONLINE" alt="Typing SVG" />
